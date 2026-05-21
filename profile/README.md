@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://bionorthtech.github.io/BioNorth-Main/logo.jpg" alt="BioNorth Logo" width="160"/>
-
 # BioNorth
 
 ### Restoring Movement Through Neural Intelligence
