@@ -7,9 +7,10 @@
 [![Patent](https://img.shields.io/badge/Patent-Pending-00C8FF?style=flat-square)]()
 [![Status](https://img.shields.io/badge/Phase-0%20Prototype-0057FF?style=flat-square)]()
 [![Built By](https://img.shields.io/badge/Built%20By-High%20Schoolers-00C8FF?style=flat-square)]()
-📧 biotech@bionorth.us · *Seeking clinical partners & early-stage funding*
+
 
 </div>
+📧 biotech@bionorth.us · *Seeking clinical partners & early-stage funding*
 
 ---
 
