@@ -1,5 +1,6 @@
 <div align="center">
-
+📧 biotech@bionorth.us · *Seeking clinical partners & early-stage funding*
+  
 # BioNorth
 **Restoring Movement Through Neural Intelligence**
 
@@ -7,6 +8,7 @@
 [![Patent](https://img.shields.io/badge/Patent-Pending-00C8FF?style=flat-square)]()
 [![Status](https://img.shields.io/badge/Phase-0%20Prototype-0057FF?style=flat-square)]()
 [![Built By](https://img.shields.io/badge/Built%20By-High%20Schoolers-00C8FF?style=flat-square)]()
+
 
 </div>
 
@@ -18,15 +20,6 @@ We're building the **TrueNorth Neural Headset** — a closed-loop BCI that detec
 
 ---
 
-## How It Works
-
-```
-EEG (μ/β drop) → Intent detected
-EMG (tibialis) → No response = FREEZE
-                  → FES pulses fired → EMG confirms → STIM OFF
-```
-
----
 
 ## Stack
 
@@ -42,7 +35,7 @@ EMG (tibialis) → No response = FREEZE
 
 ## Roadmap
 
-`[●] P0 Prototype` → `[ ] P1 Validation` → `[ ] P2 Custom PCB` → `[ ] P3 IRB Trial` → `[ ] P4 FDA 510(k)` → `[ ] P5 Launch`
+`[●] Prototype` → `[ ] Investments` → `[ ] Custom PCB` → `[ ] Trials` → `[ ] FDA 510(k)` → `[ ] Launch`
 
 ---
 
