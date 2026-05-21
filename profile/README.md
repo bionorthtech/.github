@@ -11,7 +11,8 @@
 </div>
 <div align="center">
 📧 biotech@bionorth.us · *Seeking clinical partners & early-stage funding*
-</div>
+
+
 ---
 
 We're building the **TrueNorth Neural Headset** — a closed-loop BCI that detects and interrupts **freezing of gait (FOG)** in Parkinson's patients in real time. Unlike every prior system, we stimulate only when a freeze is *confirmed* (EEG intent + no EMG response), then stop the moment muscle activation is verified.
