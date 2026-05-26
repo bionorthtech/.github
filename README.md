@@ -38,7 +38,7 @@ Motor Cortex → EEG (Cz/FCz/Fz) → ADS1299 ADC → nRF5340 DSP
 **The closed loop:**
 
 | Step | Signal | What It Does |
-|------|--------|--------------|
+|------|--------|-------------|
 | 1 | EEG μ/β desynchronization | Detects motor intent |
 | 2 | EMG (tibialis anterior) | Monitors muscle response |
 | 3 | Intent ✓ + EMG ✗ | Classifies freeze state |
@@ -78,6 +78,20 @@ Motor Cortex → EEG (Cz/FCz/Fz) → ADS1299 ADC → nRF5340 DSP
 ![React](https://img.shields.io/badge/React-Vite-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-222?style=flat-square&logo=githubpages)
 
+**SyndromeAI**
+
+![Tauri](https://img.shields.io/badge/Tauri-2.0-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Backend-CE422B?style=flat-square&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-Local%20Storage-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**JarvisAI**
+
+![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-Desktop-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black)
+
 ---
 
 ## Roadmap
@@ -101,6 +115,9 @@ Motor Cortex → EEG (Cz/FCz/Fz) → ADS1299 ADC → nRF5340 DSP
 |------|-------------|
 | [BioNorth-Main](https://github.com/bionorthtech/BioNorth-Main) | Main website & product documentation |
 | [AiMetr](https://github.com/bionorthtech/AiMetr) | Multi-provider AI usage monitor with ESP32-S3 hardware companion |
+| [SyndromeAI](https://github.com/bionorthtech/SyndromeAI) | Tauri 2 desktop GUI for Claude Code — project management, custom agents, local LLM switching |
+| [JarvisAI](https://github.com/bionorthtech/JarvisAI) | Fully local privacy-first AI assistant with semantic knowledge vault and system telemetry |
+| [Maths](https://github.com/bionorthtech/Maths) | Number theory research — Erdős conjecture paper (LaTeX/PDF) |
 
 ---
 
