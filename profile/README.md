@@ -46,6 +46,9 @@ We're building the **TrueNorth Neural Headset** — a closed-loop BCI that detec
 |--|--|
 | [BioNorth-Main](https://github.com/bionorthtech/BioNorth-Main) | Main website & product docs |
 | [AiMetr](https://github.com/bionorthtech/AiMetr) | Multi-provider AI usage monitor with ESP32-S3 hardware |
+| [SyndromeAI](https://github.com/bionorthtech/SyndromeAI) | Tauri 2 desktop GUI for Claude Code — project management, custom agents, local LLM switching |
+| [JarvisAI](https://github.com/bionorthtech/JarvisAI) | Fully local privacy-first AI assistant with semantic knowledge vault and system telemetry |
+| [Maths](https://github.com/bionorthtech/Maths) | Number theory research — Erdős conjecture paper (LaTeX/PDF) |
 
 ---
 
