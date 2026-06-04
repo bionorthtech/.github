@@ -57,6 +57,18 @@ We're building the **TrueNorth Neural Headset** — a closed-loop BCI that detec
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bionorthtech/.github/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bionorthtech/.github/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/bionorthtech/.github/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
 **National Innovator Challenge 2025 — Winner**
 
 📧 biotech@bionorth.us · *Seeking clinical partners & early-stage funding*

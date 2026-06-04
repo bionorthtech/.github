@@ -1,0 +1,41 @@
+name: Generate Snake
+
+on:
+  # Run twice a day so the snake stays fresh
+  schedule:
+    - cron: "0 */12 * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+  # Regenerate on every push to main
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          # The contribution graph the snake eats. Must be a PERSONAL
+          # GitHub username (organizations have no contribution graph).
+          # Swap this to whoever's graph you want featured.
+          github_user_name: bionorthgrp-boop
+          # BioNorth brand-blue theme. color_dots = 5 colors from
+          # 0 contributions (lightest) up to the most (darkest).
+          outputs: |
+            dist/github-snake.svg?palette=github-light&color_snake=%230057FF&color_dots=%23ebedf0,%239bd1ff,%234aa3ff,%230057FF,%23003a9e
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2300C8FF&color_dots=%23161b22,%230a3a66,%230057FF,%2300C8FF,%237fe6ff
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
