@@ -10,7 +10,8 @@
 
 </div>
 <div align="center">
-📧 biotech@bionorth.us · *Seeking clinical partners & early-stage funding*
+ EMAIL:📧 biotech@bionorth.us · *Seeking clinical partners & early-stage funding*
+ WEBSITE: https://bionorth.us/
 
 
 ---
