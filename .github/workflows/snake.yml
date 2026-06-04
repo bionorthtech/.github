@@ -25,7 +25,7 @@ jobs:
           # The contribution graph the snake eats. Must be a PERSONAL
           # GitHub username (organizations have no contribution graph).
           # Swap this to whoever's graph you want featured.
-          github_user_name: bionorthgrp-boop
+          github_user_name: bionorthtech
           # BioNorth brand-blue theme. color_dots = 5 colors from
           # 0 contributions (lightest) up to the most (darkest).
           outputs: |
