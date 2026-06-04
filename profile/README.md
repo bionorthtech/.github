@@ -1,6 +1,6 @@
 <div align="center">
   
-# BioNorth
+# BioNorth 
 **Restoring Movement Through Neural Intelligence**
 
 [![Website](https://img.shields.io/badge/Website-Visit-0057FF?style=flat-square&logo=googlechrome&logoColor=white)](https://bionorthtech.github.io/BioNorth-Main/)
