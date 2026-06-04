@@ -10,7 +10,7 @@
 
 </div>
 <div align="center">
- EMAIL:📧 biotech@bionorth.us
+ EMAIL:📧 biotech@bionorth.us 
 </div>
  <div align="center"> 
  WEBSITE: https://bionorth.us/
