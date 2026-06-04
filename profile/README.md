@@ -11,7 +11,7 @@
 </div>
 <div align="center"> 
  EMAIL:📧 biotech@bionorth.us 
-</div>
+</div> 
  <div align="center"> 
  WEBSITE: https://bionorth.us/
 
