@@ -8,7 +8,7 @@
 [![Status](https://img.shields.io/badge/Phase-0%20Prototype-0057FF?style=flat-square)]()
 [![Built By](https://img.shields.io/badge/Built%20By-High%20Schoolers-00C8FF?style=flat-square)]()
 
-</div>
+</div>   
 <div align="center"> 
  EMAIL:📧 biotech@bionorth.us 
 </div> 
